@@ -1,2 +1,0 @@
-add_lunch_combo aokp_find7s-user
-add_lunch_combo aokp_find7s-userdebug
